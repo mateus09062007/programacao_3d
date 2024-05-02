@@ -95,7 +95,8 @@ body{
 .contador-digito{
     padding: 0 16px;
     text-align: center;
-    min-width: 100pxS;
+    min-width: 100px;
+    
 }
 
 .contador-digito-numero{
@@ -123,3 +124,4 @@ body{
     }
     
 }
+
